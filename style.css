@@ -1,0 +1,24 @@
+body {
+    background: rgb(40, 98, 124);
+}
+
+h1 {
+    text-align: center;
+  }
+  
+  #password-checker {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  #password-checker label {
+    margin-right: 10px;
+  }
+  
+  #result {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
